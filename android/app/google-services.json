@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881809103183",
+    "project_id": "mechicetest",
+    "storage_bucket": "mechicetest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881809103183:android:a06a6a8c95c885b8d58d3a",
+        "android_client_info": {
+          "package_name": "com.example.mechine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzFs85Z6OPudv1jaFsbQlv3uqbeywwvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
